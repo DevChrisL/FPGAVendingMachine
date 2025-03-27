@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Computer System Design/Lab4CSD/Vending_TB_isim_beh.exe" -prj "C:/Computer System Design/Lab4CSD/Vending_TB_beh.prj" "work.Vending_TB" "work.glbl" 
